@@ -1,6 +1,9 @@
 # ame_tokidoki_koffee
 雨時々珈琲設計用レポジトリ
 
+## システム概要図
+![system_configuration_diagram](https://user-images.githubusercontent.com/55694107/212502141-166292bd-21e8-4938-8a71-1ddcb59b1497.png)
+
 ## 関連レポジトリ
 
 ### バックエンド(未作成)
