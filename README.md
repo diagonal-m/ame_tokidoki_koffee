@@ -2,7 +2,7 @@
 雨時々珈琲設計用レポジトリ
 
 ## システム概要図
-![system_configuration_diagram](https://user-images.githubusercontent.com/55694107/212502141-166292bd-21e8-4938-8a71-1ddcb59b1497.png)
+![system_configuration_diagram](https://user-images.githubusercontent.com/55694107/213844091-a24bb9ef-b879-47ed-be07-c195fd5e246a.png)
 
 ## 関連レポジトリ
 
