@@ -7,7 +7,7 @@
 ## 関連レポジトリ
 
 ### バックエンド(未作成)
-[ame_tokidoki_koffee_backend]()
+[ame_tokidoki_koffee_backend](https://github.com/diagonal-m/ame_tokidoki_koffee_api)
 
 ### フロントエンド(未作成)
 [ame_tokidoki_koffee_front]()
