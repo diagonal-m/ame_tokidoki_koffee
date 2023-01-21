@@ -4,6 +4,9 @@
 ## システム概要図
 ![system_configuration_diagram](https://user-images.githubusercontent.com/55694107/213844091-a24bb9ef-b879-47ed-be07-c195fd5e246a.png)
 
+## ER図
+![ame_tokidoki_koffee_er](https://user-images.githubusercontent.com/55694107/213865519-33906bea-ec1a-4b4e-8706-72eb8e0eba27.png)
+
 ## 関連レポジトリ
 
 ### バックエンド(未作成)
